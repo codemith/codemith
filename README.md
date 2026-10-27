@@ -108,3 +108,7 @@
   Based in <strong>Pittsburgh</strong> · Open to <strong>AI/ML, applied AI, and research engineering</strong> roles across the U.S.<br>
   <a href="mailto:biradarmithilesh@gmail.com"><strong>biradarmithilesh@gmail.com</strong></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codemith&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat-square" alt="Profile views" />
+</p>
