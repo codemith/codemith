@@ -39,6 +39,7 @@
     </td>
     <td width="44%" valign="middle">
       <h3><a href="https://github.com/ulairii/cosmospaper">CosmosPapers</a></h3>
+      <p><a href="https://github.com/ulairii/cosmospaper/stargazers"><img src="https://img.shields.io/github/stars/ulairii/cosmospaper?style=flat-square&amp;label=GitHub%20stars&amp;color=f5c542" alt="CosmosPapers GitHub stars" /></a></p>
       <p>Find relevant papers, explore research trends, and ask questions with an AI Copilot.</p>
       <p>I contributed <strong>backend retrieval, ingestion, pgvector search, and Copilot workflows</strong> to this collaborative application.</p>
       <p><strong>🏆 Microsoft × TD SYNNEX AI Agents challenge winner — CUHackit 2026</strong></p>
