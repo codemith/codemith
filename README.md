@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codemith/codemith/main/assets/profile-banner.svg" width="100%" alt="Mithilesh Biradar — AI and machine learning engineer. Retrieval, computer vision, and robotics." />
-</p>
-
-<p align="center">
   <a href="https://codemith.github.io/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/mithilesh-biradar-5298b2219/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
   <a href="https://codemith.github.io/files/Mithilesh_Biradar_resume.pdf"><strong>Résumé</strong></a> &nbsp;·&nbsp;
@@ -12,6 +8,15 @@
 I'm Mithilesh, an **AI/ML engineer and M.S. Computer Science graduate from Clemson University**. I build retrieval applications, train and evaluate models, and connect them to APIs, data pipelines, and usable interfaces. My work also extends to computer vision and reinforcement learning for robotics.
 
 I've worked on enterprise AI at **TD SYNNEX in collaboration with NVIDIA**, manufacturing vision at **TRUMPF**, and forecasting and analytics at **Tele Radio**. My research spans topological visualization and AI for fire imagery.
+
+## Tools I work with
+
+| Area | Technologies |
+| --- | --- |
+| Models & evaluation | Python, PyTorch, scikit-learn, XGBoost, transformers, computer vision |
+| Retrieval & applications | SQL, PostgreSQL/pgvector, FastAPI, LangChain, React/Next.js |
+| Data & deployment | pandas, Spark, Docker, AWS, OCI, Linux, Git |
+| Simulation & robotics | Isaac Lab, OpenUSD, Gymnasium, PPO, SLURM |
 
 ## Selected projects
 
@@ -67,15 +72,6 @@ I've worked on enterprise AI at **TD SYNNEX in collaboration with NVIDIA**, manu
 - **TD SYNNEX · AI Engineer Intern:** Built multimodal RAG and SQL-RAG workflows; fine-tuned a query router to **98%+ accuracy at 15 ms latency**. Quantized models on NVIDIA A100 GPUs, reducing model size by **52%** and latency by **47%**, and containerized inference services with Docker.
 - **TRUMPF · Machine Learning Engineer Intern:** Developed computer vision for automated sheet-metal bending, processing **30 FPS** camera streams with **75 ms inference latency**.
 - **Tele Radio · Data Scientist Intern:** Built forecasting models, Python/SQL ETL, and Power BI reporting, reducing recurring manual effort by **60%**.
-
-## Tools I work with
-
-| Area | Technologies |
-| --- | --- |
-| Models & evaluation | Python, PyTorch, scikit-learn, XGBoost, transformers, computer vision |
-| Retrieval & applications | SQL, PostgreSQL/pgvector, FastAPI, LangChain, React/Next.js |
-| Data & deployment | pandas, Spark, Docker, AWS, OCI, Linux, Git |
-| Simulation & robotics | Isaac Lab, OpenUSD, Gymnasium, PPO, SLURM |
 
 **Another project I'm proud of:** [System Failure Forecasting](https://codemith.github.io/portfolio/system-failure-forecasting/) — LSTM and XGBoost models for operational time-series data; **Capgemini challenge winner at CUHackit 2025**.
 
